@@ -1,0 +1,4 @@
+[15-Jul-2020 07:14:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/amrmuhamed/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amrmuhamed/public_html/index.php on line 17

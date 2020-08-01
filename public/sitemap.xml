@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+
+<url>
+  <loc>https://amrmoh.com/</loc>
+  <lastmod>2020-05-10T16:18:04+00:0	</lastmod>
+  <priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://amrmoh.com/ar"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amrmoh.com"/>
+</url>
+<url>
+  <loc>https://amrmoh.com/uploads/images/cv/112828051364.pdf</loc>
+  <lastmod>2020-05-10T16:18:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<!--<url>-->
+<!--  <loc>https://amrmoh.com/ar</loc>-->
+<!--  <lastmod>2020-07-14T15:31:34+00:00</lastmod>-->
+<!--  <priority>0.80</priority>-->
+<!--</url>-->
+
+<!--<url>-->
+<!--  <loc>https://amrmoh.com/en</loc>-->
+<!--  <lastmod>2020-07-14T15:31:34+00:00</lastmod>-->
+<!--  <priority>0.64</priority>-->
+<!--</url>-->
+
+
+</urlset>
